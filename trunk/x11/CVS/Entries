@@ -1,0 +1,61 @@
+/INSTALL.ja/1.10/Sun Feb  4 11:51:13 2007//
+/Imakefile/1.32/Tue Jan 23 15:48:20 2007//
+/README.ja/1.14/Sun Jan 27 11:42:44 2008//
+/cmmidi.c/1.3/Thu Dec 25 05:07:49 2003//
+/cmmidi.h/1.1/Sun Nov 16 16:43:45 2003//
+/cmpara.h/1.1/Fri Mar 26 13:58:51 2004//
+/cmserial.c/1.4/Sun Jan 21 00:03:02 2007//
+/cmserial.h/1.1/Fri Mar 26 13:58:51 2004//
+/commng.c/1.6/Wed Jan 10 18:03:01 2007//
+/commng.h/1.2/Thu Mar 25 15:10:33 2004//
+/compiler.h/1.34/Tue Jan 23 15:48:20 2007//
+/config.tmpl/1.11/Tue Jan 23 15:48:20 2007//
+/dosio.c/1.15/Wed Aug 22 15:11:55 2007//
+/dosio.h/1.9/Wed Mar  9 16:13:24 2005//
+/drawmng.c/1.1/Thu Dec 11 15:11:56 2003//
+/drawmng.h/1.4/Sat Mar 12 12:36:13 2005//
+/fontmng.c/1.2/Sun Nov 16 16:43:45 2003//
+/fontmng.h/1.4/Thu Jul  8 14:23:17 2004//
+/ini.c/1.19/Sun Feb  4 11:51:13 2007//
+/ini.h/1.4/Fri Jan 12 19:09:58 2007//
+/inputmng.c/1.1/Fri Dec 19 16:08:01 2003//
+/inputmng.h/1.1/Fri Dec 19 16:08:01 2003//
+/joymng.c/1.3/Tue Jan 23 15:48:20 2007//
+/joymng.h/1.3/Tue Jan 23 15:48:20 2007//
+/kbdmng.c/1.3/Sat Mar 12 12:36:13 2005//
+/kbdmng.h/1.5/Sat Mar 12 12:36:13 2005//
+/kdispwin.c/1.1/Fri Nov 28 16:29:57 2003//
+/kdispwin.h/1.1/Fri Nov 28 16:29:57 2003//
+/main.c/1.27/Tue Jan 23 15:48:20 2007//
+/mousemng.h/1.1/Sun Nov 16 16:43:45 2003//
+/np2.c/1.28/Sun Feb  4 11:51:13 2007//
+/np2.h/1.17/Sun Feb  4 11:51:13 2007//
+/oemtext.c/1.2/Sat Mar  5 13:48:19 2005//
+/oemtext.h/1.2/Sat Feb 26 14:13:01 2005//
+/scrnmng.h/1.8/Wed Jan 24 14:09:32 2007//
+/skbdwin.c/1.1/Wed Jun 16 12:50:49 2004//
+/skbdwin.h/1.2/Fri Jun 18 12:32:51 2004//
+/soundmng.c/1.10/Tue Jan 23 15:48:20 2007//
+/soundmng.h/1.3/Tue Jan 23 15:48:20 2007//
+/sysmenu.c/1.4/Thu Jan 29 11:44:19 2004//
+/sysmenu.h/1.1/Fri Dec 19 16:08:01 2003//
+/sysmenu.res/1.3/Thu Jan 29 11:44:19 2004//
+/sysmenu.str/1.3/Thu Jan 29 11:44:19 2004//
+/sysmng.c/1.5/Sat Mar 12 13:34:30 2005//
+/sysmng.h/1.1/Sun Nov 16 16:43:45 2003//
+/taskmng.c/1.4/Tue Jan 23 16:01:00 2007//
+/taskmng.h/1.2/Fri Dec 19 16:08:01 2003//
+/timemng.c/1.2/Sun Nov 16 16:43:45 2003//
+/timemng.h/1.2/Sun Nov 16 16:43:45 2003//
+/toolkit.c/1.7/Wed Jan 10 18:02:21 2007//
+/toolkit.h/1.11/Wed Jan 10 18:02:21 2007//
+/toolwin.h/1.2/Wed Jul 28 13:57:29 2004//
+/trace.c/1.4/Sat Feb 26 13:32:14 2005//
+/trace.h/1.5/Sat Aug  7 19:06:01 2004//
+/xnp2.jman/1.9/Sun Jan 27 11:52:12 2008//
+/xnp2.man/1.4/Sun Jan 27 11:52:12 2008//
+D/debug////
+D/gtk2////
+D/resources////
+D/sdl////
+D
